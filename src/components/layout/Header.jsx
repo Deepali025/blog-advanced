@@ -82,6 +82,22 @@ const Header = () => {
                             />
 
                             <Button
+                                variant="ghost"
+                                size="icon"
+                                asChild
+                                className="hidden md:inline-flex"
+                            >
+                                <a
+                                    href="https://github.com/Deepali025/blog-advanced"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    aria-label="GitHub Profile"
+                                >
+                                    <Icon name="Github" size={22} />
+                                </a>
+                            </Button>
+
+                            <Button
                                 variant="outline"
                                 size="sm"
                                 iconName="PenSquare"
