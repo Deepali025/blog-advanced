@@ -88,7 +88,7 @@ const Header = () => {
                                 className="hidden md:inline-flex"
                             >
                                 <a
-                                    href="https://github.com/Deepali025/blog-advanced"
+                                    href="https://github.com/Deepali025"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     aria-label="GitHub Profile"
@@ -193,7 +193,7 @@ const Header = () => {
                                     <Icon name="Linkedin" size={20} />
                                 </a>
                                 <a
-                                    href="https://github.com/Deepali025/blog-advanced"
+                                    href="https://github.com/Deepali025"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="text-muted-foreground hover:text-primary transition-colors"
