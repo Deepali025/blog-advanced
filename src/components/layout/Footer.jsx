@@ -50,7 +50,7 @@ const Footer = () => {
         { name: 'Instagram', icon: 'Instagram', url: 'https://instagram.com' },
         { name: 'Linkedin', icon: 'Linkedin', url: 'https://linkedin.com' },
         { name: 'Youtube', icon: 'Youtube', url: 'https://youtube.com' },
-        { name: 'Github', icon: 'Github', url: 'https://github.com/Deepali025/blog-advanced.git' }
+        { name: 'Github', icon: 'Github', url: 'https://github.com/Deepali025/blog-advanced' }
     ];
 
     return (

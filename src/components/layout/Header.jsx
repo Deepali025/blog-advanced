@@ -177,7 +177,7 @@ const Header = () => {
                                     <Icon name="Linkedin" size={20} />
                                 </a>
                                 <a
-                                    href="https://github.com/Deepali025/blog-advanced.git"
+                                    href="https://github.com/Deepali025/blog-advanced"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="text-muted-foreground hover:text-primary transition-colors"
